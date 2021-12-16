@@ -1,0 +1,37 @@
+.center {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputfield {
+  width: 440px;
+  height: 45px;
+  text-align: center;
+  border-radius: 2px;
+}
+
+.generatebtn {
+  width: 250px;
+  height: 30px;
+  border-radius: 2px;
+  background-color: #66E175;
+  margin-top: 50px;
+}
+
+.button {
+  margin-top: 30px;
+  display: flex;
+}
+
+.oddEvenbtn {
+  margin: 20px;
+  flex-direction: column;
+}
+
+.oddEvenbtns {
+  width: 70px;
+  height: 40px;
+  border-radius: 2px;
+  background-color:#66E175;
+}
